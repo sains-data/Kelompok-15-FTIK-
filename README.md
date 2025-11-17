@@ -43,9 +43,9 @@ Website FTIK menjadi sumber utama informasi publik yang berisi berita, kegiatan,
 ## Documentation
 - [Business Requirements](docs/Kelompok%2015_Tugas%20BesarDW_Business%20Requirements%20Analysis.pdf)
 - [Design Documents](docs/Kelompok%2015_Tugas%20BesarDW_Dimensional%20model%20diagram.pdf)
-- [Entity relationship]()
-- [Data Dictionary]()
-- [Data Source Identification]()
+- [Entity relationship](docs/Kelompok%2015_Tugas%20BesarDW_Entity%20relationship%20diagram%20(1).pdf)
+- [Data Dictionary](docs/Kelompok%2015_Tugas%20BesarDW_Data%20Dictionary.pdf)
+- [Data Source Identification](docs/Kelompok%2015_Tugas%20BesarDW_Data%20Source%20Identification.pdf)
 
 ## Timeline
 - Misi 1: 17-11-2025
