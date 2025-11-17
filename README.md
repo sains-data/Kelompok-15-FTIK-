@@ -41,7 +41,7 @@ Website FTIK menjadi sumber utama informasi publik yang berisi berita, kegiatan,
 - KPIs: Jumlah kegiatan per prodi/unit, Frekuensi berita per kategori, Aktivitas per bulan/tahun, Kegiatan berdasarkan penyelenggara, Tren publikasi dari waktu ke waktu
 
 ## Documentation
-- [Business Requirements](docs/01-requirements/)
+- [Business Requirements](docs/Kelompok%2015_Tugas%20BesarDW_Dimensional%20model%20diagram.pdf)
 - [Design Documents](docs/02-design/)
 
 ## Timeline
