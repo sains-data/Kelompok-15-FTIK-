@@ -49,5 +49,5 @@ Website FTIK menjadi sumber utama informasi publik yang berisi berita, kegiatan,
 
 ## Timeline
 - Misi 1: 17-11-2025
-- Misi 2: [Tanggal]
+- Misi 2: 25-11-2025
 - Misi 3: [Tanggal]
