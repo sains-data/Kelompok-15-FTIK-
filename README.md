@@ -46,7 +46,7 @@ Website FTIK menjadi sumber utama informasi publik yang berisi berita, kegiatan,
 - [Entity relationship](docs/Kelompok%2015_Tugas%20BesarDW_Entity%20relationship%20diagram%20(1).pdf)
 - [Data Dictionary](docs/Kelompok%2015_Tugas%20BesarDW_Data%20Dictionary.pdf)
 - [Data Source Identification](docs/Kelompok%2015_Tugas%20BesarDW_Data%20Source%20Identification.pdf)
-- [Perancangan dan Implementasi Data Warehouse](docs/Dokumentasi%Perancangan%dan%Implementasi%Data%Warehouse%FTIK.pdf)  
+- [Perancangan dan Implementasi Data Warehouse](docs/Dokumentasi%20Perancangan%20dan%20Implementasi%20Data%20Warehouse%20FTIK.pdf)  
 ## Timeline
 - Misi 1: 17-11-2025
 - Misi 2: 25-11-2025
